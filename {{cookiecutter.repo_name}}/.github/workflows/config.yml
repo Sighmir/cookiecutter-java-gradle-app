@@ -74,6 +74,7 @@ jobs:
         with:
           token: ${{ secrets.CODECOV_TOKEN }}
           file: ./reports/jacoco/test/jacocoTestReport.xml
+          flags: unittests
           fail_ci_if_error: true
 
   release:
