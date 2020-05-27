@@ -1,10 +1,10 @@
 # cookiecutter-java-gradle-app
 
-Cookiecutter for Java with Gradle, Groovy, JUnit 4, GitHub Actions, Codecov and SonarQube.
+Cookiecutter for Java with Gradle, Groovy, JUnit 4, Mockito, GitHub Actions, Codecov and SonarQube.
 
 ## Features
 
-`Gradle`, `Groovy`, `JUnit 4`, `GitHub Actions`, `Codecov`, `SonarQube`.
+`Gradle`, `Groovy`, `JUnit 4`, `Mockito`, `GitHub Actions`, `Codecov`, `SonarQube`.
 
 **Note**:
 
